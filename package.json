@@ -1,8 +1,7 @@
 {
-  "name": "xiv.github.io",
+  "name": "xiv",
   "version": "1.0.0",
   "description": "xiv docs",
-  "main": "index.js",
   "author": "tetraja",
   "license": "MIT",
   "devDependencies": {
