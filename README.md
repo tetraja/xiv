@@ -1,3 +1,5 @@
+[![docs](https://github.com/tetraja/xiv/actions/workflows/docs.yml/badge.svg)](https://github.com/tetraja/xiv/actions/workflows/docs.yml)
+
 Repository for [tetraja.github.io/xiv/](https://tetraja.github.io/xiv/)
 
 Created with [VuePress](https://v2.vuepress.vuejs.org/)
