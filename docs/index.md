@@ -1,7 +1,11 @@
 ---
 lang: en-US
+home: true
 title: Home
 description: Miscellaneous guides and information for Final Fantasy XIV.
+actions:
+  - text: Guides
+    link: /guides
 ---
 
 # FFXIV Stuff
