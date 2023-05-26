@@ -1,5 +1,7 @@
 Repository for [tetraja.github.io/xiv/](https://tetraja.github.io/xiv/)
+
 Created with [VuePress](https://v2.vuepress.vuejs.org/)
+
 I'm a novice, so things are likely broken.
 
 ## index
