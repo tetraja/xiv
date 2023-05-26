@@ -1,9 +1,14 @@
 ---
 lang: en-US
-title: sddgdfhf
+title: Home
 description: Description of this page
 ---
 
-# Hello World
+# FFXIV Stuff
 
-Here is a dump of guides and other info in one place for ffxiv so I can send to people and also check it when I forget how to do things.
+This is random repository of general information and guides for Final Fantasy XIV.
+
+Why I started this site:
+- Information is scattered all over, and I wanted to keep it in (mostly) one place
+- I wanted a site that wasn't cluttered and loaded quickly
+- I hate keeping information in Discord and other completely closed communities that can be deleted at any time
