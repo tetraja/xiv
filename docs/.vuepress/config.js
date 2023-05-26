@@ -18,6 +18,5 @@ export default defineUserConfig({
     logo: '',
     home: '/xiv/',
     repo: 'tetraja/xiv',
-    docsDir: 'docs',
   }),
 })
