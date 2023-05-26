@@ -3,8 +3,6 @@
 - [Spell Checklist](https://ffxivcollect.com/spells)
 - [Blue Mage Academy | Youtube](https://www.youtube.com/@BlueAcademy)
 
-#### 
-
 ## Content-Specific Guides
 
 :clock: = may be outdated
