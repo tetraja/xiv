@@ -1,8 +1,3 @@
----
-title: Blue Mage
-description: Information and resources regarding the Blue Mage job.
----
-
 # Blue Mage
 
 - [Spell Checklist](https://ffxivcollect.com/spells)
