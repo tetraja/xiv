@@ -3,7 +3,7 @@ import { defaultTheme } from 'vuepress';
 import { removeHtmlExtensionPlugin } from 'vuepress-plugin-remove-html-extension';
 
 export default defineUserConfig({
-  // base directory
+  // general site stuff
   base: '/xiv/',
   head: [['link', { rel: 'icon', href: '/images/14.png' }]],
   lang: 'en-US',
@@ -14,11 +14,26 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: [
       {
+        text: 'Resources',
+        link: 'resources.md'
+      },
+      {
         text: 'Guides',
-        link: '/guides/'
+        link: '/guides/',
+        children: ['']
       }
     ],
-    sidebar: 'auto',
+    sidebar: {
+      '/guides/': [
+        {
+          text: 'Guides',
+          children: [
+            '/guides/README.md',
+            '/guide/bluemage.md',
+          ],
+        },
+      ],
+    },
     editLink: false,
     contributors: false,
     repo: 'tetraja/xiv'
