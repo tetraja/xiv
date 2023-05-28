@@ -16,8 +16,5 @@ export default defineUserConfig({
   // default theme
   theme: defaultTheme({
     logo: '',
-    repo: 'tetraja/xiv',
-    sidebar: 'auto',
-    editLink: 'false',
   }),
 })
