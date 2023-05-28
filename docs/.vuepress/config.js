@@ -7,14 +7,10 @@ export default defineUserConfig({
   base: '/xiv/',
   
   //head
-  head: [['link', { rel: 'icon', href: '../images/14.png' }]],
+  head: [['link', { rel: 'icon', href: '/images/14.png' }]],
   
   lang: 'en-US',
   title: 'FFXIV Info',
   description: 'Dump of guides and info for ffxiv',
 
-  // default theme
-  theme: defaultTheme({
-    logo: '',
-  }),
 })
