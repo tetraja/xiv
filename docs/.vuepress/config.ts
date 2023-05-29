@@ -30,6 +30,7 @@ export default defineUserConfig({
           children: [
             '/guides/README.md',
             '/guides/bluemage.md',
+            '/guides/randomstuff.md'
           ],
         },
       ],
