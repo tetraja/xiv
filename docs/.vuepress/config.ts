@@ -15,7 +15,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'Resources',
-        link: 'resources.md'
+        link: './resources.md'
       },
       {
         text: 'Guides',
