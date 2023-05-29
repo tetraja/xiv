@@ -29,7 +29,7 @@ export default defineUserConfig({
           text: 'Guides',
           children: [
             '/guides/README.md',
-            '/guide/bluemage.md',
+            '/guides/bluemage.md',
           ],
         },
       ],

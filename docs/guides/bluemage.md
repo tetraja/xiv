@@ -3,6 +3,29 @@
 - [Spell Checklist](https://ffxivcollect.com/spells)
 - [Blue Mage Academy | Youtube](https://www.youtube.com/@BlueAcademy)
 
+Spells that share recast timers:
+- Feather Rain, Eruption
+- Shock Strike, Mountain Buster
+- Glass Dance, Veil of the Whorl
+- Off Guard, Peculiar Light
+- Level 5 Death, Ultravibration
+- J Kick, Quasar
+- The Rose of Destruction, Chelonian Gate
+- Nightbloom, Both Ends
+- Angel's Snack, Matra Magic, Dragon Force
+
+Combos:
+Aqua Breath + High Voltage
+Aqua Berath + Northerlies
+Drill Cannons + Level 5 Petrify
+Bomb Toss/Faze/Sticky Tongue/Perpetual Ray + Sharpened Knife
+Toad Oil + Self-Destruct (Still not as much as unbuffed Final Sting)
+The Ram's Voice + The Dragon's Voice
+White Knight's Tour + Black Knight's Tour
+Peripheral Synthesis + Mustard Bomb
+
+Moon Flute + Tingle + Whistle + Final Sting
+
 ## Content-Specific Guides
 
 :clock: = may be outdated
