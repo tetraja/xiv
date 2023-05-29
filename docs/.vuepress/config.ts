@@ -20,7 +20,6 @@ export default defineUserConfig({
       {
         text: 'Guides',
         link: '/guides/',
-        children: ['']
       }
     ],
     sidebar: {
