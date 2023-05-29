@@ -5,7 +5,7 @@ title: Home
 description: Miscellaneous guides and information for Final Fantasy XIV.
 actions:
   - text: Guides
-    link: /guides
+    link: /guides/
 ---
 
 # FFXIV Stuff
