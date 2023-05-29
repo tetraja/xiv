@@ -4,6 +4,7 @@
 - [Blue Mage Academy | Youtube](https://www.youtube.com/@BlueAcademy)
 
 Spells that share recast timers:
+
 - Feather Rain, Eruption
 - Shock Strike, Mountain Buster
 - Glass Dance, Veil of the Whorl
@@ -26,6 +27,8 @@ Peripheral Synthesis + Mustard Bomb
 
 Moon Flute + Tingle + Whistle + Final Sting
 
+[5.45 BLU BiS Sets and Spells](https://docs.google.com/spreadsheets/d/1tZ95lLdwldQSl0ebm0On--utwSabvH5sBIfr_j4je84/edit)
+
 ## Content-Specific Guides
 
 :clock: = may be outdated
@@ -42,7 +45,8 @@ Moon Flute + Tingle + Whistle + Final Sting
 ## Macros
 
 ### Loom to Target
-```
+
+```plaintext
 /merror off
 /blueaction Loom <t>
 /blueaction Loom <t>

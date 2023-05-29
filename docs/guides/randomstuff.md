@@ -16,28 +16,28 @@ Options: Firmament, Daily GC Turn-ins, Custom Deliveries, Ixal, Namazu & Qiqirn/
 ### Gathering Leveling
 
 Leveling Guide
-https://guides.ffxivteamcraft.com/guide/gathering-leveling-guide
+<https://guides.ffxivteamcraft.com/guide/gathering-leveling-guide>
 Ocean Fishing
-https://guides.ffxivteamcraft.com/guide/beginners-ocean-fishing-guide
+<https://guides.ffxivteamcraft.com/guide/beginners-ocean-fishing-guide>
 Collectables
-https://guides.ffxivteamcraft.com/guide/gathering-collectable-guide
+<https://guides.ffxivteamcraft.com/guide/gathering-collectable-guide>
 Custom Deliveries
-https://guides.ffxivteamcraft.com/guide/custom-deliveries
+<https://guides.ffxivteamcraft.com/guide/custom-deliveries>
 
 ### Crafting Leveling
 
 Leveling Guide
-https://guides.ffxivteamcraft.com/guide/crafting-leveling-guide
+<https://guides.ffxivteamcraft.com/guide/crafting-leveling-guide>
 
 Rietty's Leve Guides:
-[EW] 15-70 - https://tinyurl.com/arrsbleveguide
-[EW] 70-80 - https://tinyurl.com/shbleveguide 
-[EW] 80-90- https://tinyurl.com/ewleveguide
+[EW] 15-70 - <https://tinyurl.com/arrsbleveguide>
+[EW] 70-80 - <https://tinyurl.com/shbleveguide>
+[EW] 80-90- <https://tinyurl.com/ewleveguide>
 
 Post's List of Leveling Rotations & Equipment List:
-https://guides.ffxivteamcraft.com/guide/leveling-rotations-&-equipment
+<https://guides.ffxivteamcraft.com/guide/leveling-rotations-&-equipment>
 Custom Deliveries:
-https://guides.ffxivteamcraft.com/guide/custom-deliveries
+<https://guides.ffxivteamcraft.com/guide/custom-deliveries>
 
 Always good: GC Turn-Ins, Job Quests, Firmament
 
