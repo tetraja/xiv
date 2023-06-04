@@ -10,18 +10,36 @@ export default defineUserConfig({
   title: 'FFXIV Info',
   description: 'Dump of guides and info for ffxiv',
 
-  //theme
   theme: defaultTheme({
+    // navigation bar
     navbar: [
       {
         text: 'Resources',
         link: '../resources.md'
       },
       {
-        text: 'Guides',
-        link: '/guides/',
-      }
+        text: 'Starter Guide',
+        link: '../starterguide/README.md',
+        children: ['../starterguide/mechanics.md', '../starterguide/misc.md'],
+      },
+      {
+        text: 'Encounters',
+        link: '../encounter/README.md',
+        children: ['../encounter/deepdungeon.md'],
+      },
+      {
+        text: 'Jobs',
+        link: '../jobs/README.md',
+        children: ['../jobs/blu.md', '../jobs/fishing.md'],
+      },
+      {
+        text: 'Relics',
+        link: '../relic/README.md',
+        children: ['../jobs/blu.md', '../jobs/fishing.md'],
+      },
     ],
+
+    // sidebar tree
     sidebar: {
       '/guides/': [
         {
@@ -29,14 +47,15 @@ export default defineUserConfig({
           children: [
             '/guides/README.md',
             '/guides/bluemage.md',
-            '/guides/randomstuff.md'
+            '/guides/randomstuff.md',
           ],
         },
       ],
     },
+    
     editLink: false,
     contributors: false,
-    repo: 'tetraja/xiv'
+    repo: 'tetraja/xiv',
   }),
 
   //plugins
