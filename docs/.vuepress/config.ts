@@ -18,6 +18,10 @@ export default defineUserConfig({
         link: '../resources.md'
       },
       {
+        text: 'Reference',
+        link: '../reference.md'
+      },
+      {
         text: 'Starter Guide',
         children: ['../starterguide/README.md', '../starterguide/mechanics.md', '../starterguide/misc.md'],
       },
@@ -91,16 +95,16 @@ export default defineUserConfig({
             {
               text: 'Eureka',
               collapsible: true,
-              children: ['/relic/eureka.md',]
+              children: ['../sb/eureka.md',]
             },
             {
               text: 'Resistance',
               collapsible: true,
-              children: ['/relic/resistance.md',]
+              children: ['../shb/resistance.md',]
             },
             '/relic/manderville.md',
-            '/relic/skysteel.md',
-            '/relic/crystalline.md',
+            '../tools/skysteel.md',
+            '../tools/crystalline.md',
           ],
         }
       ],
