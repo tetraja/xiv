@@ -1,16 +1,16 @@
 ---
-lang: en-US
-home: true
 title: Home
 description: Miscellaneous guides and information for Final Fantasy XIV.
+home: true
 actions:
-  - title: Resources
-    link: resources.html
-    type: primary
-  - title: Reference
-    link: reference.html
-    type: secondary
-footer: Created with [VuePress](https://v2.vuepress.vuejs.org/)
+- title: Resources
+  link: resources.html
+  type: primary
+- title: Reference
+  link: reference.html
+  type: secondary
+footerHtml: true
+footer: Created with <a href="https://v2.vuepress.vuejs.org/">VuePress</a>
 ---
 
 This is a random repository of general information and guides for Final Fantasy XIV. It is heavily under construction and updated somewhat sporadically at the moment, so isn't yet easy to navigate.
