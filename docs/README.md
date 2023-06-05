@@ -4,10 +4,10 @@ description: Miscellaneous guides and information for Final Fantasy XIV.
 home: true
 actions:
 - title: Resources
-  link: resources.html
+  link: resources.md
   type: primary
 - title: Reference
-  link: reference.html
+  link: reference.md
   type: secondary
 footerHtml: true
 footer: Created with <a href="https://v2.vuepress.vuejs.org/">VuePress</a>
