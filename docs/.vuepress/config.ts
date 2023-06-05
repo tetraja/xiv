@@ -38,14 +38,13 @@ export default defineUserConfig({
         children: ['../relic/README.md', '../relic/zodiac.md', '../relic/anima.md',
           { 
             text: 'Eureka', 
-            link: '../relic/eureka.md',
+            link: '../relic/sb/eureka.md',
           },
           {
             text: 'Resistance',
-            link: '../relic/resistance.md',
-            children: [''],
+            children: ['../relic/shb/resistance.md','../relic/shb/bozja.md'],
           },
-        '../relic/manderville.md', '../relic/skysteel.md', '../relic/crystalline.md',
+        '../relic/manderville.md', '../relic/tools/skysteel.md', '../relic/tools/crystalline.md',
       ]},
     ],
 
@@ -89,22 +88,22 @@ export default defineUserConfig({
         {
           text: 'Relics',
           children: [
-            '/relic/README.md',
-            '/relic/zodiac.md',
-            '/relic/anima.md',
+            '../relic/README.md',
+            '../relic/zodiac.md',
+            '../relic/anima.md',
             {
               text: 'Eureka',
               collapsible: true,
-              children: ['../sb/eureka.md',]
+              children: ['../relic/sb/eureka.md',]
             },
             {
               text: 'Resistance',
               collapsible: true,
-              children: ['../shb/resistance.md',]
+              children: ['../relic/shb/resistance.md',]
             },
-            '/relic/manderville.md',
-            '../tools/skysteel.md',
-            '../tools/crystalline.md',
+            '../relic/manderville.md',
+            '../relic/tools/skysteel.md',
+            '../relic/tools/crystalline.md',
           ],
         }
       ],
