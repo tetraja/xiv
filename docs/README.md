@@ -11,17 +11,13 @@ actions:
     link: reference.html
     type: secondary
 features:
-  - title: New Player Guide
-    link: /starterguide/
+  - title: [New Player Guide](/starterguide/)
     details: Basic information and resources for players new to FFXIV.
-   - title: Encounters
-    link: /encounter/
+  - title: [Encounters](/encounter/)
     details: Information on combat-related instances and areas.
-  - title: Jobs
-    link: /jobs/
+  - title: [Jobs](/jobs/)
     details: Information on jobs and classes.
-  - title: Relics
-    link: /relic/
+  - title: [Relics](/relic/)
     details: Information on relic weapons.
 footer: Created with [VuePress](https://v2.vuepress.vuejs.org/)
 ---
