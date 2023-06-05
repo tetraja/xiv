@@ -3,10 +3,10 @@ title: Home
 description: Miscellaneous guides and information for Final Fantasy XIV.
 home: true
 actions:
-- title: Resources
+- text: Resources
   link: resources.md
   type: primary
-- title: Reference
+- text: Reference
   link: reference.md
   type: secondary
 footerHtml: true
