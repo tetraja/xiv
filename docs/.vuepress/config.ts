@@ -15,11 +15,11 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'Resources',
-        link: '../resources.md'
+        link: '.../resources.md'
       },
       {
         text: 'Reference',
-        link: '../reference.md'
+        link: '/reference.md'
       },
       {
         text: 'Starter Guide',
@@ -35,7 +35,7 @@ export default defineUserConfig({
       },
       {
         text: 'Relics',
-        children: ['./relic/README.md', './relic/zodiac.md', './relic/anima.md',
+        children: ['../relic/README.md', '../relic/zodiac.md', '../relic/anima.md',
           { 
             text: 'Eureka', 
             link: '/relic/sb/eureka.md',
