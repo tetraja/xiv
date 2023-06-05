@@ -88,22 +88,22 @@ export default defineUserConfig({
         {
           text: 'Relics',
           children: [
-            '../relic/README.md',
-            '../relic/zodiac.md',
-            '../relic/anima.md',
+            '/relic/README.md',
+            '/relic/zodiac.md',
+            '/relic/anima.md',
             {
               text: 'Eureka',
               collapsible: true,
-              children: ['./relic/sb/eureka.md',]
+              children: ['/relic/sb/eureka.md',]
             },
             {
               text: 'Resistance',
               collapsible: true,
-              children: ['./relic/shb/resistance.md',]
+              children: ['/relic/shb/resistance.md',]
             },
-            '../relic/manderville.md',
-            '../relic/tools/skysteel.md',
-            '../relic/tools/crystalline.md',
+            '/relic/manderville.md',
+            '/relic/tools/skysteel.md',
+            '/relic/tools/crystalline.md',
           ],
         }
       ],
