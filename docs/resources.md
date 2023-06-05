@@ -1,6 +1,15 @@
 # Resources
 
-🙈 = links marked with 🙈 may have content spoilers for various expansions.
+::: warning
+WIP
+:::
+
+<badge type="tip" text="good resource" vertical="mid"/>
+
+<badge type="warning" text="spoilers" vertical="mid"/>
+
+<badge type="danger" text="outdated?" vertical="mid"/>
+
 
 - [FFXIV Housing](https://en.ff14housing.com/): Database of housing items
 - [FF14ミラプリSS投稿・共有サイト | MIRAPRI SNAP](https://mirapri.com/): glamour gallery

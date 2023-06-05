@@ -1,4 +1,4 @@
-export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{}}")
+export const siteData = JSON.parse("{\"base\":\"/xiv/\",\"lang\":\"en-US\",\"title\":\"FFXIV Info\",\"description\":\"Dump of guides and info for ffxiv\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/images/14.png\"}]],\"locales\":{}}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

@@ -1,6 +1,6 @@
-# Starter Guide
+# Basics
 
-i will put new player things here
+This section is WIP. I'm not yet sure how I want to break it up into pages
 
 ## Guides
 
@@ -11,20 +11,10 @@ i will put new player things here
 - [UI Guide](https://na.finalfantasyxiv.com/uiguide/)
 - [Starter Guide Series](https://starter-guide.finalfantasyxiv.com/na/)
 
-## How to Spend Poetics
+## TODO
 
-in order of priority (ranked by me)
-
-### Gear for jobs you are leveling
-
-50/60/70/80
-
-### Collectable Items
-
-#### 50
-
-### Materials for Relics
-
-### Gear to convert to seals or desynth
-
-### unidentified ore for thanalan topsoil
+- mech explanations @ [[mechanics]]
+- duty explanations
+- how to unlock glamour
+- hall of the novice and other early combat stuff
+- earning seals for my little chocobo, etc

@@ -8,7 +8,7 @@ actions:
     link: /guides/
 ---
 
-# FFXIV Stuff
+## FFXIV Stuff
 
 This is a random repository of general information and guides for Final Fantasy XIV. It is heavily under construction and updated somewhat sporadically at the moment, so isn't yet easy to navigate.
 

@@ -19,44 +19,97 @@ export default defineUserConfig({
       },
       {
         text: 'Starter Guide',
-        link: '../starterguide/README.md',
-        children: ['../starterguide/mechanics.md', '../starterguide/misc.md'],
+        children: ['../starterguide/README.md', '../starterguide/mechanics.md', '../starterguide/misc.md'],
       },
       {
         text: 'Encounters',
-        link: '../encounter/README.md',
-        children: ['../encounter/deepdungeon.md'],
+        children: ['../encounter/deepdungeon.md',],
       },
       {
         text: 'Jobs',
-        link: '../jobs/README.md',
-        children: ['../jobs/blu.md', '../jobs/fishing.md'],
+        children: ['../jobs/bluemage.md', '../jobs/fishing.md'],
       },
       {
         text: 'Relics',
-        link: '../relic/README.md',
-        children: ['../jobs/blu.md', '../jobs/fishing.md'],
-      },
+        children: ['../relic/README.md', '../relic/zodiac.md', '../relic/anima.md',
+          { 
+            text: 'Eureka', 
+            link: '../relic/eureka.md',
+          },
+          {
+            text: 'Resistance',
+            link: '../relic/resistance.md',
+            children: [''],
+          },
+        '../relic/manderville.md', '../relic/skysteel.md', '../relic/crystalline.md',
+      ]},
     ],
 
     // sidebar tree
     sidebar: {
-      '/guides/': [
+      '/': [
         {
-          text: 'Guides',
+          text: 'Resources',
+          children: ['resources.md'],
+        }
+      ],
+      '/encounter/': [
+        {
+          text: 'Encounter',
           children: [
-            '/guides/README.md',
-            '/guides/bluemage.md',
-            '/guides/randomstuff.md',
+            '/encounter/README.md',
+            '/encounter/deepdungeon.md',
           ],
-        },
+        }
+      ],
+      '/starterguide/': [
+        {
+          text: 'Starter Guide',
+          children: [
+            '/starterguide/README.md',
+            '/starterguide/mechanics.md',
+            '/starterguide/misc.md',
+          ],
+        }
+      ],
+      '/jobs/': [
+        {
+          text: 'Jobs',
+          children: [
+            '/jobs/bluemage.md',
+            '/jobs/fishing.md',
+          ],
+        }
+      ],
+      '/relic/': [
+        {
+          text: 'Relics',
+          children: [
+            '/relic/README.md',
+            '/relic/zodiac.md',
+            '/relic/anima.md',
+            {
+              text: 'Eureka',
+              collapsible: true,
+              children: ['/relic/eureka.md',]
+            },
+            {
+              text: 'Resistance',
+              collapsible: true,
+              children: ['/relic/resistance.md',]
+            },
+            '/relic/manderville.md',
+            '/relic/skysteel.md',
+            '/relic/crystalline.md',
+          ],
+        }
       ],
     },
-    
+
     editLink: false,
     contributors: false,
     repo: 'tetraja/xiv',
-  }),
+   }),
 
   //plugins
   plugins: [removeHtmlExtensionPlugin()],
