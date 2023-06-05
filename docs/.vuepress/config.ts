@@ -15,7 +15,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: 'Resources',
-        link: '.../resources.md'
+        link: '/resources.md'
       },
       {
         text: 'Reference',
@@ -23,19 +23,19 @@ export default defineUserConfig({
       },
       {
         text: 'Starter Guide',
-        children: ['../starterguide/README.md', '../starterguide/mechanics.md', '../starterguide/misc.md'],
+        children: ['/starterguide/README.md', '/starterguide/mechanics.md', '/starterguide/misc.md'],
       },
       {
         text: 'Encounters',
-        children: ['../encounter/deepdungeon.md',],
+        children: ['/encounter/deepdungeon.md',],
       },
       {
         text: 'Jobs',
-        children: ['../jobs/bluemage.md', '../jobs/fishing.md'],
+        children: ['/jobs/bluemage.md', '/jobs/fishing.md'],
       },
       {
         text: 'Relics',
-        children: ['../relic/README.md', '../relic/zodiac.md', '../relic/anima.md',
+        children: ['/relic/README.md', '/relic/zodiac.md', '/relic/anima.md',
           { 
             text: 'Eureka', 
             link: '/relic/sb/eureka.md',
@@ -44,7 +44,7 @@ export default defineUserConfig({
             text: 'Resistance',
             children: ['/relic/shb/resistance.md','/relic/shb/bozja.md'],
           },
-        './relic/manderville.md', './relic/tools/skysteel.md', './relic/tools/crystalline.md',
+        '/relic/manderville.md', '/relic/tools/skysteel.md', '/relic/tools/crystalline.md',
       ]},
     ],
 
