@@ -80,3 +80,45 @@ this is a danger
 ::: details
 this is a details
 :::
+
+## Macros
+
+### Hunt Macros
+
+**Hunt ON** - Disable effects and store minions and chocobos during busy hunts
+
+```plaintext
+/echo Hunt ON
+/nameplatedisp other 4
+/soundeffectsother 0
+/voice off
+/bfx self off
+/bfx party off
+/bfx others off
+/targetline off
+/aggroline off
+/ambientsounds off
+/minion
+/companionaction "Withdraw"
+```
+
+**Hunt OFF** - Turn everything back on. See below for macro settings.
+```plaintext
+/echo Hunt OFF
+/nameplatedisp other 3
+/soundeffectsother 50
+/voice on
+/bfx self all
+/bfx party simple
+/targetline on
+/aggroline on
+/ambientsounds on
+/ac "Minion Roulette"
+```
+
+- `/nameplatedisp <category> <setting>`: change display of nameplates
+  - Categories: all, self, party, other, friend, feast (crystalline conflict)
+  - Settings: 1 (Always), 2 (During Battle), 3 (When targeted), 4 (Never)
+- `/soundeffectsother <level>`: turn off sound effects of non-party players
+- `/voice <on/off>`: toggle voices on and off
+- `/bfx self all`: turn all personal battle effects on

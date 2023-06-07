@@ -43,3 +43,24 @@ TBC
 | R. Aug |
 | Tome   |
 | Weapon |
+
+Local Settings Files
+
+Only COMMON, CONTROL0 and CONTROL1 are in plaintext, the rest are not in a readable format.
+
+ACQ – recent /tell history
+ADDON – ui layout and window sizes
+COMMON – Character Config settings and miscellaneous settings such as egi size and aetheryte ticket settings.
+CONTROL0 – control settings for when keyboard mode is enabled
+CONTROL1 – control settings for when gamepad mode is enabled
+GEARSET – gearsets
+GS - Gold Saucer config (Triple Triad decks)
+HOTBAR – hotbar contents
+ITEMFDR – item search index (refernce for /isearch)
+ITEMODR – item sort order in inventories
+KEYBIND – keybindings
+LOGFLTR – chat log filters and color settings
+MACRO – individual macros
+UISAVE – ????????
+
+

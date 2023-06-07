@@ -44,7 +44,7 @@ export default defineUserConfig({
             text: 'Resistance',
             children: ['/relic/shb/resistance.md','/relic/shb/bozja.md'],
           },
-        '/relic/manderville.md', '/relic/tools/skysteel.md', '/relic/tools/crystalline.md',
+        '/relic/manderville.md', '/relic/tools/lucis.md', '/relic/tools/skysteel.md', '/relic/tools/crystalline.md',
       ]},
     ],
 
@@ -62,6 +62,21 @@ export default defineUserConfig({
           children: [
             '/encounter/README.md',
             '/encounter/deepdungeon.md',
+            {
+              text: 'Extreme',
+              collapsible: true,
+              children: ['/encounter/ex/ew.md'],
+            },
+            {
+              text: 'Savage',
+              collapsible: true,
+              children: ['/encounter/sav/ew.md'],
+            },
+            {
+              text: 'Ultimate',
+              collapsible: true,
+              children: ['/encounter/ult/tea.md'],
+            },
           ],
         }
       ],
@@ -102,6 +117,7 @@ export default defineUserConfig({
               children: ['/relic/shb/resistance.md',]
             },
             '/relic/manderville.md',
+            '/relic/tools/lucis.md',
             '/relic/tools/skysteel.md',
             '/relic/tools/crystalline.md',
           ],

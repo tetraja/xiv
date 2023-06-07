@@ -1,5 +1,4 @@
-<template><div><h2 id="ffxiv-stuff" tabindex="-1"><a class="header-anchor" href="#ffxiv-stuff" aria-hidden="true">#</a> FFXIV Stuff</h2>
-<p>This is a random repository of general information and guides for Final Fantasy XIV. It is heavily under construction and updated somewhat sporadically at the moment, so isn't yet easy to navigate.</p>
+<template><div><p>This is a random repository of general information and guides for Final Fantasy XIV. It is heavily under construction and updated somewhat sporadically at the moment, so isn't yet easy to navigate.</p>
 <p>Why I started this site:</p>
 <ul>
 <li>Information is scattered all over, and I wanted to keep it in (mostly) one place</li>
