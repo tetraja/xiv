@@ -129,6 +129,7 @@ export default defineUserConfig({
     contributors: false,
     repo: 'tetraja/xiv',
    }),
+  // configure markdown
 
   //plugins
   plugins: [removeHtmlExtensionPlugin()],

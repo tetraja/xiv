@@ -13,6 +13,8 @@ export const pagesData = {
   "v-ca84ff66": () => import(/* webpackChunkName: "v-ca84ff66" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/bluemage.html.js").then(({ data }) => data),
   // path: /jobs/fishing
   "v-cdb59862": () => import(/* webpackChunkName: "v-cdb59862" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/fishing.html.js").then(({ data }) => data),
+  // path: /jobs/
+  "v-14ccaf40": () => import(/* webpackChunkName: "v-14ccaf40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/index.html.js").then(({ data }) => data),
   // path: /encounter/deepdungeon
   "v-75f98860": () => import(/* webpackChunkName: "v-75f98860" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/deepdungeon.html.js").then(({ data }) => data),
   // path: /encounter/
@@ -33,6 +35,12 @@ export const pagesData = {
   "v-0afe1438": () => import(/* webpackChunkName: "v-0afe1438" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/starterguide/misc.html.js").then(({ data }) => data),
   // path: /starterguide/
   "v-ce3a30ae": () => import(/* webpackChunkName: "v-ce3a30ae" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/starterguide/index.html.js").then(({ data }) => data),
+  // path: /encounter/ex/ew
+  "v-bb349e40": () => import(/* webpackChunkName: "v-bb349e40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ex/ew.html.js").then(({ data }) => data),
+  // path: /encounter/sav/ew
+  "v-5a416fea": () => import(/* webpackChunkName: "v-5a416fea" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/ew.html.js").then(({ data }) => data),
+  // path: /encounter/ult/tea
+  "v-71007d20": () => import(/* webpackChunkName: "v-71007d20" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ult/tea.html.js").then(({ data }) => data),
   // path: /relic/sb/eureka
   "v-8b973056": () => import(/* webpackChunkName: "v-8b973056" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/sb/eureka.html.js").then(({ data }) => data),
   // path: /relic/shb/bozja
@@ -47,10 +55,4 @@ export const pagesData = {
   "v-13a29f26": () => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /encounter/ult/tea
-  "v-71007d20": () => import(/* webpackChunkName: "v-71007d20" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ult/tea.html.js").then(({ data }) => data),
-  // path: /encounter/sav/ew
-  "v-5a416fea": () => import(/* webpackChunkName: "v-5a416fea" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/ew.html.js").then(({ data }) => data),
-  // path: /encounter/ex/ew
-  "v-bb349e40": () => import(/* webpackChunkName: "v-bb349e40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ex/ew.html.js").then(({ data }) => data),
 }

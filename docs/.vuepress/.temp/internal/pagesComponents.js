@@ -15,6 +15,8 @@ export const pagesComponents = {
   "v-ca84ff66": defineAsyncComponent(() => import(/* webpackChunkName: "v-ca84ff66" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/bluemage.html.vue")),
   // path: /jobs/fishing
   "v-cdb59862": defineAsyncComponent(() => import(/* webpackChunkName: "v-cdb59862" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/fishing.html.vue")),
+  // path: /jobs/
+  "v-14ccaf40": defineAsyncComponent(() => import(/* webpackChunkName: "v-14ccaf40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/jobs/index.html.vue")),
   // path: /encounter/deepdungeon
   "v-75f98860": defineAsyncComponent(() => import(/* webpackChunkName: "v-75f98860" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/deepdungeon.html.vue")),
   // path: /encounter/
@@ -35,6 +37,12 @@ export const pagesComponents = {
   "v-0afe1438": defineAsyncComponent(() => import(/* webpackChunkName: "v-0afe1438" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/starterguide/misc.html.vue")),
   // path: /starterguide/
   "v-ce3a30ae": defineAsyncComponent(() => import(/* webpackChunkName: "v-ce3a30ae" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/starterguide/index.html.vue")),
+  // path: /encounter/ex/ew
+  "v-bb349e40": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb349e40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ex/ew.html.vue")),
+  // path: /encounter/sav/ew
+  "v-5a416fea": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a416fea" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/ew.html.vue")),
+  // path: /encounter/ult/tea
+  "v-71007d20": defineAsyncComponent(() => import(/* webpackChunkName: "v-71007d20" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ult/tea.html.vue")),
   // path: /relic/sb/eureka
   "v-8b973056": defineAsyncComponent(() => import(/* webpackChunkName: "v-8b973056" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/sb/eureka.html.vue")),
   // path: /relic/shb/bozja
@@ -49,10 +57,4 @@ export const pagesComponents = {
   "v-13a29f26": defineAsyncComponent(() => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /encounter/ult/tea
-  "v-71007d20": defineAsyncComponent(() => import(/* webpackChunkName: "v-71007d20" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ult/tea.html.vue")),
-  // path: /encounter/sav/ew
-  "v-5a416fea": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a416fea" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/ew.html.vue")),
-  // path: /encounter/ex/ew
-  "v-bb349e40": defineAsyncComponent(() => import(/* webpackChunkName: "v-bb349e40" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/ex/ew.html.vue")),
 }
