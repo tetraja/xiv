@@ -2,12 +2,25 @@
 
 tea-hee
 
+## Gearsets
+
+- [Level Sync Calculator](https://docs.google.com/spreadsheets/d/1b6LR-dbypIODyjNhNV5bGVJtJS14cxyPc3xZ1LIfrsM/edit#gid=980050008)
+
+::: tip
+Synced pieces can be replaced by any item with the same substats above the minimum sync level
+:pencil~1: Any of the synced pieces can be replaced with any item with the same substats that is above the minimum sync ilevel for each fight:
+ilvl sync: i595
+fight ilvl: 475
+relic substat cap: 184
+:::
 ## Fight Guides
 
 ### Text Guides
 
 - [Ultimate Uncoiled Site](https://ultimateuncoiled.com/tea/)
 - [Eiryla's Tea Guide](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit)
+- [Meletti Amaro's Translated Guide](https://docs.google.com/spreadsheets/d/1Kvt1DnwzDQKdoqJuvgPXCEHtlkf5HeBdTp6_68drh3Q/edit#gid=0)
+- 
 
 ### Video Guides
 
