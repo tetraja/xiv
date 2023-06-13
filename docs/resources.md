@@ -1,6 +1,7 @@
 # Resources
 
 ::: warning
+
 WIP
 :::
 
@@ -57,18 +58,15 @@ Official Guides
 - [Savage Learning Academy](https://discord.gg/ffxivsla)
 - [NA PF Savage](https://discord.gg/sHUFy2sR97)
 - [Sync/Min iLevel NA](https://discord.gg/BmpW6C9)
-- [Agents of Eureka](https://discord.gg/agents-of-eureka-aoe-cross-dc-819439550216667156)
 - [NA Pug TOP](https://discord.gg/D9EceEbduz)
 - [Everything FFXIV](https://discord.com/invite/QtzBf3V)
 
 ### Primal
 - [Primal Raid Network](https://discord.gg/uzNtAbf)
-- [Party Finder Nightmares (Primal)](https://discord.gg/wSY74P3)
 - [Ultimate Primal Raiding](https://discord.gg/3R5StBa)
 - [Primal Blue Mage Academy](https://discord.gg/blueacademy)
 - [The Help Lines](https://discord.gg/Nnkq9UW)
 - [Primal Eureka/Bozja Enjoyers](https://discord.gg/PEBE)
-- [Diamond Meteorite Alliance Raiding Community](https://discord.gg/diamondmeteor)
 - [Primal Optimization Group](https://primaloptigroup.carrd.co/)
 
 ### General
