@@ -50,9 +50,30 @@ Official Guides
 [Crystalline Conflict Guide](https://na.finalfantasyxiv.com/lodestone/playguide/contentsguide/crystallineconflict/)
 [Additional Plots and Purchasing Guide](https://sqex.to/YPz)
 
-## Discords
+## Discords (Primal Focused)
 
+### North America
+- [Ultimate Uncoiled (NA + EU)](https://discord.gg/rcVpJhQ)
+- [Savage Learning Academy](https://discord.gg/ffxivsla)
+- [NA PF Savage](https://discord.gg/sHUFy2sR97)
+- [Sync/Min iLevel NA](https://discord.gg/BmpW6C9)
+- [Agents of Eureka](https://discord.gg/agents-of-eureka-aoe-cross-dc-819439550216667156)
+- [NA Pug TOP](https://discord.gg/D9EceEbduz)
+- [Everything FFXIV](https://discord.com/invite/QtzBf3V)
+
+### Primal
+- [Primal Raid Network](https://discord.gg/uzNtAbf)
+- [Party Finder Nightmares (Primal)](https://discord.gg/wSY74P3)
+- [Ultimate Primal Raiding](https://discord.gg/3R5StBa)
+- [Primal Blue Mage Academy](https://discord.gg/blueacademy)
+- [The Help Lines](https://discord.gg/Nnkq9UW)
+- [Primal Eureka/Bozja Enjoyers](https://discord.gg/PEBE)
+- [Diamond Meteorite Alliance Raiding Community](https://discord.gg/diamondmeteor)
+- [Primal Optimization Group](https://primaloptigroup.carrd.co/)
+
+### General
 - [Achievement Lobby](https://discord.com/invite/ffxiv-achievement)
+- [Revival Wings](https://discord.gg/WYMpfYp)
 
 ## Community Content
 
