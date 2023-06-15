@@ -10,7 +10,7 @@ actions:
   link: reference.md
   type: secondary
 footerHtml: true
-footer: Created with <a href="https://v2.vuepress.vuejs.org/">VuePress</a>
+footer: Created with <a href="https://v2.vuepress.vuejs.org/">VuePress</a> </br> FINAL FANTASY and FFXIV are registered trademarks of Square Enix Holdings Co., Ltd. | FINAL FANTASY XIV © 2010 - 2023 SQUARE ENIX CO., LTD. All Rights Reserved. 
 ---
 
 This is a random repository of general information and guides for Final Fantasy XIV. It is heavily under construction and updated somewhat sporadically at the moment, so isn't yet easy to navigate.

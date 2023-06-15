@@ -26,3 +26,7 @@ A: The tug exclamation points categorized as Battle Effects and not included in 
 
 Additionally, the Cast Light skill adds a light to the end of your fishing rod that will shake when you've hooked a fish. If using a controller, if vibration is turned on, the controller will vibrate when a fish is hooked.
 
+## Quests
+
+### The Beast of Brewer's Beacon/Feast of Famine
+

@@ -13,6 +13,7 @@
   - [ ] earning seals for my little chocobo, etc
   - [ ] put limit break explanation in mechs too
 - [ ] contributing
+- [ ] add icons(?) or something for stuff liek HQ
 
 ## pages
 
