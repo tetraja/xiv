@@ -4,6 +4,8 @@ export const pagesRoutes = [
   ["v-76e2b8b2","/reference",{"title":"Reference"},["/reference.html","/reference.md"]],
   ["v-68dc5d0d","/resources",{"title":"Resources"},["/resources.html","/resources.md"]],
   ["v-92b170e0","/secret",{"title":"secret"},["/secret.html","/secret.md"]],
+  ["v-2a94c469","/casual/glamour",{"title":"Glamour"},["/casual/glamour.html","/casual/glamour.md"]],
+  ["v-56961df9","/casual/island",{"title":"Island Sanctuary"},["/casual/island.html","/casual/island.md"]],
   ["v-75f98860","/encounter/deepdungeon",{"title":"Deep Dungeons"},["/encounter/deepdungeon.html","/encounter/deepdungeon.md"]],
   ["v-5f69e5d6","/encounter/",{"title":"Encounters"},["/encounter/index.html","/encounter/README.md"]],
   ["v-ca84ff66","/jobs/bluemage",{"title":"Blue Mage"},["/jobs/bluemage.html","/jobs/bluemage.md"]],
@@ -27,6 +29,5 @@ export const pagesRoutes = [
   ["v-22ba7a84","/relic/tools/lucis",{"title":"Lucis Tools"},["/relic/tools/lucis.html","/relic/tools/lucis.md"]],
   ["v-13a29f26","/relic/tools/skysteel",{"title":"Skysteel Tools"},["/relic/tools/skysteel.html","/relic/tools/skysteel.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
-  ["v-56961df9","/casual/island",{"title":"Island Sanctuary"},["/casual/island.html","/casual/island.md"]],
-  ["v-2a94c469","/casual/glamour",{"title":"Glamour"},["/casual/glamour.html","/casual/glamour.md"]],
+  ["v-5a8a0348","/achievements",{"title":"Achievements"},["/achievements.html","/achievements.md"]],
 ]

@@ -9,6 +9,10 @@ export const pagesData = {
   "v-68dc5d0d": () => import(/* webpackChunkName: "v-68dc5d0d" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/resources.html.js").then(({ data }) => data),
   // path: /secret
   "v-92b170e0": () => import(/* webpackChunkName: "v-92b170e0" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/secret.html.js").then(({ data }) => data),
+  // path: /casual/glamour
+  "v-2a94c469": () => import(/* webpackChunkName: "v-2a94c469" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/glamour.html.js").then(({ data }) => data),
+  // path: /casual/island
+  "v-56961df9": () => import(/* webpackChunkName: "v-56961df9" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/island.html.js").then(({ data }) => data),
   // path: /encounter/deepdungeon
   "v-75f98860": () => import(/* webpackChunkName: "v-75f98860" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/deepdungeon.html.js").then(({ data }) => data),
   // path: /encounter/
@@ -55,8 +59,6 @@ export const pagesData = {
   "v-13a29f26": () => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /casual/island
-  "v-56961df9": () => import(/* webpackChunkName: "v-56961df9" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/island.html.js").then(({ data }) => data),
-  // path: /casual/glamour
-  "v-2a94c469": () => import(/* webpackChunkName: "v-2a94c469" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/glamour.html.js").then(({ data }) => data),
+  // path: /achievements
+  "v-5a8a0348": () => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.js").then(({ data }) => data),
 }

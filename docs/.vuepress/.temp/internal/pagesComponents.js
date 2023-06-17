@@ -11,6 +11,10 @@ export const pagesComponents = {
   "v-68dc5d0d": defineAsyncComponent(() => import(/* webpackChunkName: "v-68dc5d0d" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/resources.html.vue")),
   // path: /secret
   "v-92b170e0": defineAsyncComponent(() => import(/* webpackChunkName: "v-92b170e0" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/secret.html.vue")),
+  // path: /casual/glamour
+  "v-2a94c469": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a94c469" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/glamour.html.vue")),
+  // path: /casual/island
+  "v-56961df9": defineAsyncComponent(() => import(/* webpackChunkName: "v-56961df9" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/island.html.vue")),
   // path: /encounter/deepdungeon
   "v-75f98860": defineAsyncComponent(() => import(/* webpackChunkName: "v-75f98860" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/deepdungeon.html.vue")),
   // path: /encounter/
@@ -57,8 +61,6 @@ export const pagesComponents = {
   "v-13a29f26": defineAsyncComponent(() => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /casual/island
-  "v-56961df9": defineAsyncComponent(() => import(/* webpackChunkName: "v-56961df9" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/island.html.vue")),
-  // path: /casual/glamour
-  "v-2a94c469": defineAsyncComponent(() => import(/* webpackChunkName: "v-2a94c469" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/glamour.html.vue")),
+  // path: /achievements
+  "v-5a8a0348": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.vue")),
 }
