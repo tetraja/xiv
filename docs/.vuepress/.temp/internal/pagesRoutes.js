@@ -1,4 +1,5 @@
 export const pagesRoutes = [
+  ["v-5a8a0348","/achievements",{"title":"Achievements"},["/achievements.html","/achievements.md"]],
   ["v-6ce48554","/contributing",{"title":"Contributing"},["/contributing.html","/contributing.md"]],
   ["v-8daa1a0e","/",{"title":"Home"},["/index.html","/README.md"]],
   ["v-76e2b8b2","/reference",{"title":"Reference"},["/reference.html","/reference.md"]],
@@ -29,5 +30,7 @@ export const pagesRoutes = [
   ["v-22ba7a84","/relic/tools/lucis",{"title":"Lucis Tools"},["/relic/tools/lucis.html","/relic/tools/lucis.md"]],
   ["v-13a29f26","/relic/tools/skysteel",{"title":"Skysteel Tools"},["/relic/tools/skysteel.html","/relic/tools/skysteel.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
-  ["v-5a8a0348","/achievements",{"title":"Achievements"},["/achievements.html","/achievements.md"]],
+  ["v-47f54c74","/casual/tripletriad",{"title":"Triple Triad"},["/casual/tripletriad.html","/casual/tripletriad.md"]],
+  ["v-73620828","/encounter/sav/shb",{"title":""},["/encounter/sav/shb.html","/encounter/sav/shb.md"]],
+  ["v-d8be7ee4","/encounter/sav/sb",{"title":""},["/encounter/sav/sb.html","/encounter/sav/sb.md"]],
 ]

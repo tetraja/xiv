@@ -1,4 +1,6 @@
 export const pagesData = {
+  // path: /achievements
+  "v-5a8a0348": () => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.js").then(({ data }) => data),
   // path: /contributing
   "v-6ce48554": () => import(/* webpackChunkName: "v-6ce48554" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/contributing.html.js").then(({ data }) => data),
   // path: /
@@ -59,6 +61,10 @@ export const pagesData = {
   "v-13a29f26": () => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
-  // path: /achievements
-  "v-5a8a0348": () => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.js").then(({ data }) => data),
+  // path: /casual/tripletriad
+  "v-47f54c74": () => import(/* webpackChunkName: "v-47f54c74" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/tripletriad.html.js").then(({ data }) => data),
+  // path: /encounter/sav/shb
+  "v-73620828": () => import(/* webpackChunkName: "v-73620828" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/shb.html.js").then(({ data }) => data),
+  // path: /encounter/sav/sb
+  "v-d8be7ee4": () => import(/* webpackChunkName: "v-d8be7ee4" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/sb.html.js").then(({ data }) => data),
 }

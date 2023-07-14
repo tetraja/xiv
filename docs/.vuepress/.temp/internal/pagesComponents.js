@@ -1,6 +1,8 @@
 import { defineAsyncComponent } from 'vue'
 
 export const pagesComponents = {
+  // path: /achievements
+  "v-5a8a0348": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.vue")),
   // path: /contributing
   "v-6ce48554": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ce48554" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/contributing.html.vue")),
   // path: /
@@ -61,6 +63,10 @@ export const pagesComponents = {
   "v-13a29f26": defineAsyncComponent(() => import(/* webpackChunkName: "v-13a29f26" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/relic/tools/skysteel.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
-  // path: /achievements
-  "v-5a8a0348": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a8a0348" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/achievements.html.vue")),
+  // path: /casual/tripletriad
+  "v-47f54c74": defineAsyncComponent(() => import(/* webpackChunkName: "v-47f54c74" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/casual/tripletriad.html.vue")),
+  // path: /encounter/sav/shb
+  "v-73620828": defineAsyncComponent(() => import(/* webpackChunkName: "v-73620828" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/shb.html.vue")),
+  // path: /encounter/sav/sb
+  "v-d8be7ee4": defineAsyncComponent(() => import(/* webpackChunkName: "v-d8be7ee4" */"C:/Users/Owner/Documents/GitHub/xiv.github.io/docs/.vuepress/.temp/pages/encounter/sav/sb.html.vue")),
 }

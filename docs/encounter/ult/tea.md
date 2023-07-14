@@ -6,6 +6,10 @@ tea-hee
 
 - [Level Sync Calculator](https://docs.google.com/spreadsheets/d/1b6LR-dbypIODyjNhNV5bGVJtJS14cxyPc3xZ1LIfrsM/edit#gid=980050008)
 
+- [SGE (2.50)](https://etro.gg/gearset/787361b8-7b11-4f46-9b03-ad3f03a88796) - Fey's Temperance
+- [SCH/AST/WHM (2.41)](https://etro.gg/gearset/09707795-e7f4-4e88-a65a-dbe4d97d49e4) - Fey's Temperance
+- [RDM (2.49)](https://bit.ly/3Jv5dKk) - The Balance
+
 ::: tip
 Synced pieces can be replaced by any item with the same substats above the minimum sync level
 :pencil~1: Any of the synced pieces can be replaced with any item with the same substats that is above the minimum sync ilevel for each fight:
