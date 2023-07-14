@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-debcc104","path":"/relic/anima.html","title":"Anima Relic","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685933734000},"filePathRelative":"relic/anima.md"}');export{e as data};

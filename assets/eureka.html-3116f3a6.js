@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8b973056","path":"/relic/sb/eureka.html","title":"Eureka","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685933734000},"filePathRelative":"relic/sb/eureka.md"}');export{e as data};

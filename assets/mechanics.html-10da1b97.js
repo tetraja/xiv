@@ -1,0 +1,1 @@
+import{_ as c,o as a,c as s,a as e,b as t}from"./app-5871c13b.js";const n={},o=e("h1",{id:"mechanics",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mechanics","aria-hidden":"true"},"#"),t(" Mechanics")],-1),r=[o];function i(_,h){return a(),s("div",null,r)}const l=c(n,[["render",i],["__file","mechanics.html.vue"]]);export{l as default};

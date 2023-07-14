@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-13a29f26","path":"/relic/tools/skysteel.html","title":"Skysteel Tools","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685933734000},"filePathRelative":"relic/tools/skysteel.md"}');export{e as data};

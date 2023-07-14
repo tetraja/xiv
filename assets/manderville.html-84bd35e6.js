@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5593745a","path":"/relic/manderville.html","title":"Manderville Relic","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685921733000},"filePathRelative":"relic/manderville.md"}');export{e as data};

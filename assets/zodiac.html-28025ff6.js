@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-56def870","path":"/relic/zodiac.html","title":"Zodiac Relic","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Second Relic","slug":"second-relic","link":"#second-relic","children":[]}],"git":{"updatedTime":1686804049000},"filePathRelative":"relic/zodiac.md"}');export{e as data};

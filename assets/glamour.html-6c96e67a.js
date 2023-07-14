@@ -1,0 +1,1 @@
+import{_ as a,o,c as r,a as e,b as t}from"./app-5871c13b.js";const c={},s=e("h1",{id:"glamour",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#glamour","aria-hidden":"true"},"#"),t(" Glamour")],-1),n=[s];function _(l,d){return o(),r("div",null,n)}const m=a(c,[["render",_],["__file","glamour.html.vue"]]);export{m as default};

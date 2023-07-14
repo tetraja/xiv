@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dc310156","path":"/relic/","title":"Relic Tips","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Resources","slug":"resources","link":"#resources","children":[]}],"git":{"updatedTime":1686804049000},"filePathRelative":"relic/README.md"}');export{e as data};

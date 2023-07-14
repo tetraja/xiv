@@ -1,0 +1,1 @@
+import{_ as a,o as r,c as l,a as e,b as c}from"./app-5871c13b.js";const t={},n=e("h1",{id:"manderville-relic",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#manderville-relic","aria-hidden":"true"},"#"),c(" Manderville Relic")],-1),i=[n];function d(o,s){return r(),l("div",null,i)}const h=a(t,[["render",d],["__file","manderville.html.vue"]]);export{h as default};

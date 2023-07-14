@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1fb01d2e","path":"/relic/shb/resistance.html","title":"Resistance Relic","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685933734000},"filePathRelative":"relic/shb/resistance.md"}');export{e as data};
